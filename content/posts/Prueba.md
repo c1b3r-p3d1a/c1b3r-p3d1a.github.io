@@ -7,4 +7,4 @@ draft: false
 tags:
 ---
 Prueba blablablablabal
-![[Pasted image 20250120192944.png]]
+!![Image Description](/images/Pasted%20image%2020250120192944.png)
