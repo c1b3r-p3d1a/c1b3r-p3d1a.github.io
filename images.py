@@ -5,7 +5,7 @@ import shutil
 # Paths (using raw strings to handle Windows backslashes correctly)
 posts_dir = r"C:\Users\hugo_\Documents\0xbitAbit\content\posts"
 attachments_dir = r"C:\Users\hugo_\Documents\Obsidian Vault\attachments"
-static_images_dir = r"C:\Users\hugo_\Documents\0xbitAbit\themes\archie\static"
+static_images_dir = r"C:\Users\hugo_\Documents\0xbitAbit\themes\archie\static\images"
 
 # Step 1: Process each markdown file in the posts directory
 for filename in os.listdir(posts_dir):
@@ -22,7 +22,7 @@ for filename in os.listdir(posts_dir):
         for image in images:
             # Prepare the Markdown-compatible link with %20 replacing spaces
             markdown_image = (
-                f"![Image Description](/{image.replace(' ', '%20')})"
+                f"![Image Description](/images/{image.replace(' ', '%20')})"
             )
             content = content.replace(f"[[{image}]]", markdown_image)
 
