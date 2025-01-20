@@ -6,4 +6,5 @@ tldr: Leelo vago
 draft: false
 tags:
 ---
-Prueba blablablablabal!![Image Description](/images/Funda%20Móvil%20Sainz%20v2.png)
+Prueba blablablablabal
+![[Pasted image 20250120192944.png]]
