@@ -13,7 +13,7 @@
       <link>/posts/prueba/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/posts/prueba/</guid>
-      <description>&lt;p&gt;Prueba blablablablabal!&lt;img src=&#34;/images/Funda%20M%C3%B3vil%20Sainz%20v2.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Prueba blablablablabal&#xA;![[Pasted image 20250120192944.png]]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
