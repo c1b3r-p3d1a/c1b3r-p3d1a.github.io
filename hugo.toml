@@ -1,0 +1,39 @@
+baseURL = "/"
+languageCode = "es-es"
+title = "0xbitAbit"
+theme="archie"
+copyright = ""
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = ""
+
+paginate=3 # articles per page
+
+[params]
+	mode="auto" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "Subtitulo"
+	mathjax = true # enable MathJax support
+	katex = true # enable KaTeX support
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/c1b3r-p3d1a"
+
+# Main menu Items
+
+[[menu.main]]
+name = "Inicio"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Todos los posts"
+url = "/posts"
+weight = 2
