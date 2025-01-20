@@ -9,11 +9,11 @@
     <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Esto es un título de prueba</title>
-      <link>/posts/prueba/</link>
+      <title>Título</title>
+      <link>/posts/hello/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/prueba/</guid>
-      <description>&lt;p&gt;Prueba blablablablabal&#xA;!&lt;img src=&#34;/Pasted%20image%2020250120192944.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+      <guid>/posts/hello/</guid>
+      <description>&lt;p&gt;Hola que tal esto es una prueba :)&#xA;!&lt;img src=&#34;/images/Pasted%20image%2020250120195213.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
