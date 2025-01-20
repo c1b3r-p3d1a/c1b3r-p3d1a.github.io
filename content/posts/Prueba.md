@@ -1,7 +1,7 @@
 ---
 title: Esto es un título de prueba
 description: Esto es una descripción
-date: 20/01/2025
+date: 2025-01-20
 tldr: Leelo vago
 draft: false
 tags:
