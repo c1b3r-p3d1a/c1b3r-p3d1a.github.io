@@ -7,4 +7,4 @@ draft: false
 tags:
 ---
 Prueba blablablablabal
-!![Image Description](/images/Pasted%20image%2020250120192944.png)
+!![Image Description](/Pasted%20image%2020250120192944.png)
