@@ -1,8 +1,8 @@
 baseURL = "/"
-languageCode = "es-es"
+languageCode = "es-ES"
 title = "0xbitAbit"
 theme="archie"
-copyright = ""
+copyright = "© c1b3r-p3d1a"
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
@@ -15,7 +15,7 @@ paginate=3 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Subtitulo"
+	subtitle = "Un sitio donde aprenderás como funcionan las tecnologías que usas todos los días"
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
 
@@ -34,6 +34,11 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Todos los posts"
+name = "Posts"
 url = "/posts"
 weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3

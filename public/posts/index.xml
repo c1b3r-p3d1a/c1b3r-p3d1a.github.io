@@ -5,15 +5,16 @@
     <link>/posts/</link>
     <description>Recent content in Posts on 0xbitAbit</description>
     <generator>Hugo</generator>
-    <language>es-es</language>
-    <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <language>es-ES</language>
+    <copyright>© c1b3r-p3d1a</copyright>
+    <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Título</title>
-      <link>/posts/hello/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/hello/</guid>
-      <description>&lt;p&gt;Hola que tal esto es una prueba :)&#xA;!&lt;img src=&#34;/images/Pasted%20image%2020250120195213.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+      <title>Bienvenidos</title>
+      <link>/posts/1/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/1/</guid>
+      <description>&lt;h2 id=&#34;0xbitabit&#34;&gt;0xbitAbit&lt;/h2&gt;&#xA;&lt;p&gt;¿Nunca te has preguntado como funciona la pantalla con la que estás viendo esto? ¿O cómo hemos conseguido meter miles de millones de transistores en chips de $0.7cm^2?$ ¿Cómo funcionan los automóviles que tanto usamos hoy en día? Estas y más son preguntas que en algún punto me he hecho y probablemente tu también te hallas hecho, y por eso estamos aquí. Mi intención al escribir este blog es reunir todos estos conocimientos y plasmarlos en un solo sitio, haciéndolo en español (ya que todos los recursos suelen estar en inglés) y de una forma sencilla y entendible para todo el mundo.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
